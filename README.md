@@ -15,14 +15,14 @@ Este projeto é uma aplicação web interativa desenvolvida em Python com **Stre
 - **Plotly Express** (visualização interativa de dados)
 - **Streamlit** (construção da interface web)
 
+## Links do Projeto
+
+- **Aplicação em Produção (Render):** https://bootcamp-da-sprint-5.onrender.com/
+- **Repositório GitHub:** https://github.com/crscamila/Bootcamp-DA---Sprint-5
+
 ## Como executar o projeto localmente
 
 1. Clone o repositório:
 ```bash
 git clone [https://github.com/crscamila/Bootcamp-DA---Sprint-5.git](https://github.com/crscamila/Bootcamp-DA---Sprint-5.git)
 cd "Sprint 5 - Projeto Git"
-
-## Links do Projeto
-
-- **Aplicação em Produção (Render):** https://bootcamp-da-sprint-5.onrender.com/
-- **Repositório GitHub:** https://github.com/crscamila/Bootcamp-DA---Sprint-5
