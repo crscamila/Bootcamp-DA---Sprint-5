@@ -19,7 +19,7 @@ Este projeto é uma aplicação web interativa desenvolvida em Python com **Stre
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/crscamila/Bootcamp-DA---Sprint-5](https://github.com/crscamila/Bootcamp-DA---Sprint-5)
+git clone [https://github.com/crscamila/Bootcamp-DA---Sprint-5.git](https://github.com/crscamila/Bootcamp-DA---Sprint-5.git)
 cd "Sprint 5 - Projeto Git"
 
 ## Links do Projeto
